@@ -85,5 +85,5 @@ public class UserRegistrationProgram {
 		addToEmailList("abc.@gmail.com");
 		addToEmailList("abc@abc@gmail.com");
 		addToEmailList("abc@gmail.com.1a");
-   }
+    }
 }
